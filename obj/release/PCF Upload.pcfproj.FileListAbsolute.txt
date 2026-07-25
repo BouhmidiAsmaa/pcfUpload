@@ -1,0 +1,2 @@
+C:\Users\Noreddine\Documents\PCFUpload\obj\release\PCF Upload.pcfproj.AssemblyReference.cache
+C:\Users\Noreddine\Documents\PCFUpload\obj\release\PCF Upload.pcfproj.CoreCompileInputs.cache
